@@ -1,0 +1,58 @@
+# Required
+pyrofork
+TgCrypto
+python-dotenv
+hachoir
+beautifulsoup4==4.9.1
+bs4==0.0.1
+
+# DDL
+pySmartDL
+requests
+
+# Database
+dnspython
+motor
+
+# Others
+psutil
+js2py
+cloudscraper
+lk21
+lxml
+httpx
+speedtest-cli
+
+# Google Drive
+google-api-core
+google-auth
+oauth2client<4.0.0
+google~=3.0.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+httplib2==0.18.0
+beautifulsoup4==4.9.1
+cloudscraper
+dnspython
+google
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+hachoir
+httplib2==0.18.0
+httpx
+js2py
+lk21
+lxml
+motor
+oauth2client
+psutil
+pyrofork
+pySmartDL
+python-dotenv
+requests
+speedtest-cli
+TgCrypto
